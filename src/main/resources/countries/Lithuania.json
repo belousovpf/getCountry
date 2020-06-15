@@ -1,0 +1,23 @@
+{
+  "country_name" : "Lithuania",
+  "country_synonyms" : [
+    "Lithuania",
+    "Литва"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Vilnius",
+      "region_synonyms" : [
+        "Vilnius"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Vilnius",
+          "city_synonyms" : [
+            "Vilnius"
+          ]
+        }
+      ]
+    }
+  ]
+}

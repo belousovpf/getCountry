@@ -1,0 +1,22 @@
+{
+  "country_name" : "Abkhazia",
+  "country_synonyms" : [
+    "Abkhazia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Sukhumi",
+      "region_synonyms" : [
+        "Sukhumi"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Sukhumi",
+          "city_synonyms" : [
+            "Sukhumi"
+          ]
+        }
+      ]
+    }
+  ]
+}

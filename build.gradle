@@ -63,7 +63,7 @@ compileTestKotlin {
 publish {
     groupId = 'com.github.getcoderio'
     artifactId = 'GetCountry'
-    publishVersion = '1.0.24'
+    publishVersion = '1.0.25'
     desc = 'The library that transforms String location into Country/Region/City names'
     licences = ['MIT']
     website = 'https://github.com/getcoderio/getCountry'
