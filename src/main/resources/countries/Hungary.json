@@ -15,7 +15,90 @@
           "city_synonyms" : [
             "Budapest"
           ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Central Hungary",
+      "region_synonyms" : [
+        "Central Hungary",
+        "Közép-Magyarország"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bács-Kiskun",
+          "city_synonyms" : [
+            "Bács-Kiskun"
+          ]
         },
+        {
+          "city_name" : "Fejér",
+          "city_synonyms" : [
+            "Fejér"
+          ]
+        },
+        {
+          "city_name" : "Kecskemét",
+          "city_synonyms" : [
+            "Kecskemét"
+          ]
+        },
+        {
+          "city_name" : "Székesfehérvár",
+          "city_synonyms" : [
+            "Székesfehérvár"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Central Transdanubia",
+      "region_synonyms" : [
+        "Central Transdanubia",
+        "Közép-Dunántúl"
+      ],
+      "cities" : []
+    },
+    {
+      "region_name" : "Northern Hungary",
+      "region_synonyms" : [
+        "Northern Hungary",
+        "Észak-Magyaroszág"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Borsod-Abaúj-Zemplén",
+          "city_synonyms" : [
+            "Borsod-Abaúj-Zemplén"
+          ]
+        },
+        {
+          "city_name" : "Miskolc",
+          "city_synonyms" : [
+            "Miskolc"
+          ]
+        },
+        {
+          "city_name" : "Nyíregyháza",
+          "city_synonyms" : [
+            "Nyíregyháza"
+          ]
+        },
+        {
+          "city_name" : "Szabolcs-Szatmár-Bereg",
+          "city_synonyms" : [
+            "Szabolcs-Szatmár-Bereg"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Northern Great Plain",
+      "region_synonyms" : [
+        "Northern Great Plain",
+        "Észak-Alföld"
+      ],
+      "cities" : [
         {
           "city_name" : "Debrecen",
           "city_synonyms" : [
@@ -23,15 +106,72 @@
           ]
         },
         {
+          "city_name" : "Hajdú-Bihar",
+          "city_synonyms" : [
+            "Hajdú-Bihar"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Southern Great Plain",
+      "region_synonyms" : [
+        "Southern Great Plain",
+        "Dél-Alföld"
+      ],
+      "cities" : [
+        {
           "city_name" : "Szeged",
           "city_synonyms" : [
             "Szeged"
           ]
         },
         {
-          "city_name" : "Miskolc",
+          "city_name" : "Csongrád-Csanád",
           "city_synonyms" : [
-            "Miskolc"
+            "Csongrád-Csanád"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Southern Transdanubia",
+      "region_synonyms" : [
+        "Southern Transdanubia",
+        "Dél-Dunántúl"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Pécs",
+          "city_synonyms" : [
+            "Pécs"
+          ]
+        },
+        {
+          "city_name" : "Baranya",
+          "city_synonyms" : [
+            "Baranya"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Western Transdanubia",
+      "region_synonyms" : [
+        "Western Transdanubia",
+        "Nyugat-Dunántúl"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Győr",
+          "city_synonyms" : [
+            "Győr"
+          ]
+        },
+        {
+          "city_name" : "Győr-Moson-Sopron",
+          "city_synonyms" : [
+            "Győr-Moson-Sopron"
           ]
         }
       ]

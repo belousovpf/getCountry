@@ -20,6 +20,260 @@
           ]
         }
       ]
+    },
+    {
+      "region_name" : "Central Bohemian",
+      "region_synonyms" : [
+        "Central Bohemian",
+        "Středočeský"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kladno",
+          "city_synonyms" : [
+            "Kladno"
+          ]
+        },
+        {
+          "city_name" : "Mladá Boleslav",
+          "city_synonyms" : [
+            "Mladá Boleslav"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Hradec Králové",
+      "region_synonyms" : [
+        "Hradec Králové",
+        "Královéhradecký"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Hradec Králové",
+          "city_synonyms" : [
+            "Hradec Králové"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Karlovy Vary",
+      "region_synonyms" : [
+        "Karlovy Vary",
+        "Karlovarský"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Karlovy Vary",
+          "city_synonyms" : [
+            "Karlovy Vary"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Liberec",
+      "region_synonyms" : [
+        "Liberec",
+        "Liberecký"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Liberec",
+          "city_synonyms" : [
+            "Liberec"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Moravian-Silesian",
+      "region_synonyms" : [
+        "Moravian-Silesian",
+        "Moravskoslezský"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Ostrava",
+          "city_synonyms" : [
+            "Ostrava"
+          ]
+        },
+        {
+          "city_name" : "Havířov",
+          "city_synonyms" : [
+            "Havířov"
+          ]
+        },
+        {
+          "city_name" : "Karviná",
+          "city_synonyms" : [
+            "Karviná"
+          ]
+        },
+        {
+          "city_name" : "Frýdek-Místek",
+          "city_synonyms" : [
+            "Frýdek-Místek"
+          ]
+        },
+        {
+          "city_name" : "Opava",
+          "city_synonyms" : [
+            "Opava"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Olomouc",
+      "region_synonyms" : [
+        "Olomouc",
+        "Olomoucký"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Olomouc",
+          "city_synonyms" : [
+            "Olomouc"
+          ]
+        },
+        {
+          "city_name" : "Přerov",
+          "city_synonyms" : [
+            "Přerov"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Pardubice",
+      "region_synonyms" : [
+        "Pardubice",
+        "Pardubický"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Pardubice",
+          "city_synonyms" : [
+            "Pardubice"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Plzeň",
+      "region_synonyms" : [
+        "Plzeň",
+        "Plzeňský"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Plzeň",
+          "city_synonyms" : [
+            "Plzeň"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "South Bohemian",
+      "region_synonyms" : [
+        "South Bohemian",
+        "Jihočeský"
+      ],
+      "cities" : [
+        {
+          "city_name" : "České Budějovice",
+          "city_synonyms" : [
+            "České Budějovice"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "South Moravian",
+      "region_synonyms" : [
+        "South Moravian",
+        "Jihomoravský"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Brno",
+          "city_synonyms" : [
+            "Brno"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Ústí nad Labem",
+      "region_synonyms" : [
+        "Ústí nad Labem",
+        "Ústecký"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Ústí nad Labem",
+          "city_synonyms" : [
+            "Ústí nad Labem"
+          ]
+        },
+        {
+          "city_name" : "Most",
+          "city_synonyms" : [
+            "Most"
+          ]
+        },
+        {
+          "city_name" : "Teplice",
+          "city_synonyms" : [
+            "Teplice"
+          ]
+        },
+        {
+          "city_name" : "Děčín",
+          "city_synonyms" : [
+            "Děčín"
+          ]
+        },
+        {
+          "city_name" : "Chomutov",
+          "city_synonyms" : [
+            "Chomutov"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Vysočina",
+      "region_synonyms" : [
+        "Vysočina"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Jihlava",
+          "city_synonyms" : [
+            "Jihlava"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Zlín",
+      "region_synonyms" : [
+        "Zlín",
+        "Zlínský"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Zlín",
+          "city_synonyms" : [
+            "Zlín"
+          ]
+        }
+      ]
     }
   ]
 }

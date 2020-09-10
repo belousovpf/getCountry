@@ -6,9 +6,64 @@
   ],
   "regions" : [
     {
-      "region_name" : "Kazakhstan",
+      "region_name" : "Akmola Region",
       "region_synonyms" : [
-        "Kazakhstan"
+        "Akmola Region",
+        "Akmola",
+        "Ақмола облысы",
+        "Акмолинская область"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kokshetau",
+          "city_synonyms" : [
+            "Kokshetau",
+            "Көкшетау",
+            "Кокшетау"
+          ]
+        },
+        {
+          "city_name" : "Schuchinsk",
+          "city_synonyms" : [
+            "Schuchinsk",
+            "Щучинск"
+          ]
+        },
+        {
+          "city_name" : "Stepnogorsk",
+          "city_synonyms" : [
+            "Stepnogorsk",
+            "Степногорск"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Aktobe",
+      "region_synonyms" : [
+        "Aktobe Region",
+        "Aktobe",
+        "Ақтөбе облысы",
+        "Актюбинская область"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Aktobe",
+          "city_synonyms" : [
+            "Aktobe",
+            "Ақтөбе",
+            "Актюбинск"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Almaty",
+      "region_synonyms" : [
+        "Almaty Region",
+        "Almaty",
+        "Алматы облысы",
+        "Алматинская область"
       ],
       "cities" : [
         {
@@ -19,39 +74,353 @@
           ]
         },
         {
-          "city_name" : "Astana",
+          "city_name" : "Taldykorgan",
           "city_synonyms" : [
-            "Astana",
-            "Астана"
+            "Taldykorgan",
+            "Талдықорған",
+            "Талдыкорган"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Atyrau Region",
+      "region_synonyms" : [
+        "Atyrau Region",
+        "Atyrau",
+        "Atyraý облысы",
+        "Атырауская область"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Atyrau",
+          "city_synonyms" : [
+            "Atyrau",
+            "Атырау"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Baikonur",
+      "region_synonyms" : [
+        "Baikonur"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Baikonur",
+          "city_synonyms" : [
+            "Baikonur",
+            "Байконур"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "East Kazakhstan Region",
+      "region_synonyms" : [
+        "East Kazakhstan Region",
+        "East Kazakhstan",
+        "Шығыс Қазақстан",
+        "Восточно-Казахстанская область"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Oskemen",
+          "city_synonyms" : [
+            "Oskemen",
+            "Өскемен",
+            "Усть-Каменогорск"
           ]
         },
         {
-          "city_name" : "Aktobe",
+          "city_name" : "Semey",
           "city_synonyms" : [
-            "Aktobe",
-            "Актобе"
+            "Semey",
+            "Семей"
           ]
         },
+        {
+          "city_name" : "Ridder",
+          "city_synonyms" : [
+            "Ridder",
+            "Риддер"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Jambyl Region",
+      "region_synonyms" : [
+        "Jambyl Region",
+        "Jambyl",
+        "Жамбыл облысы",
+        "Жамбылская область"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Taraz",
+          "city_synonyms" : [
+            "Taraz",
+            "Тараз"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Karaganda Region",
+      "region_synonyms" : [
+        "Karaganda Region",
+        "Karaganda",
+        "Қарағанды облысы",
+        "Карагандинская область"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Satpayev",
+          "city_synonyms" : [
+            "Satpayev",
+            "Сәтбаев",
+            "Сатбаев"
+          ]
+        },
+        {
+          "city_name" : "Shakhtinsk",
+          "city_synonyms" : [
+            "Shakhtinsk",
+            "Шахтинск"
+          ]
+        },
+        {
+          "city_name" : "Karagandy",
+          "city_synonyms" : [
+            "Karagandy",
+            "Қарағанды",
+            "Караганда"
+          ]
+        },
+        {
+          "city_name" : "Temirtau",
+          "city_synonyms" : [
+            "Temirtau",
+            "Теміртау",
+            "Темиртау"
+          ]
+        },
+        {
+          "city_name" : "Zhezkazgan",
+          "city_synonyms" : [
+            "Zhezkazgan",
+            "Жезқазған",
+            "Жезқазған"
+          ]
+        },
+        {
+          "city_name" : "Balqash",
+          "city_synonyms" : [
+            "Balqash",
+            "Балқаш",
+            "Балкаш"
+          ]
+        },
+        {
+          "city_name" : "Saran",
+          "city_synonyms" : [
+            "Saran",
+            "Сараң",
+            "Саран"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Kostanay Region",
+      "region_synonyms" : [
+        "Kostanay Region",
+        "Kostanay",
+        "Қостанай облысы",
+        "Костанайская область"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kostanay",
+          "city_synonyms" : [
+            "Kostanay",
+            "Қостанай",
+            "Костанай"
+          ]
+        },
+        {
+          "city_name" : "Arkalyk",
+          "city_synonyms" : [
+            "Arkalyk",
+            "Арқалық",
+            "Аркалык"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Kyzylorda Region",
+      "region_synonyms" : [
+        "Kyzylorda Region",
+        "Kyzylorda",
+        "Қызылорда облысы",
+        "Кызылординская область"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kyzylorda",
+          "city_synonyms" : [
+            "Kyzylorda",
+            "Қызылорда",
+            "Кызылорда"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Mangystau Region",
+      "region_synonyms" : [
+        "Mangystau Region",
+        "Mangystau",
+        "Маңғыстау облысы",
+        "Мангыстауская область"
+      ],
+      "cities" : [
         {
           "city_name" : "Aktau",
           "city_synonyms" : [
             "Aktau",
+            "Ақтау",
             "Актау"
           ]
         },
-
         {
-          "city_name" : "Kurchatov",
+          "city_name" : "Zhanaozen",
           "city_synonyms" : [
-            "Kurchatov",
-            "Курчатов"
+            "Zhanaozen",
+            "Жаңаөзен",
+            "Жанаозен"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "North Kazakhstan Region",
+      "region_synonyms" : [
+        "North Kazakhstan Region",
+        "North Kazakhstan",
+        "Солтүстік Қазақстан облысы",
+        "Северо-Казахстанская область область"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Petropavl",
+          "city_synonyms" : [
+            "Petropavl",
+            "Петропавл"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Nur-Sultan",
+      "region_synonyms" : [
+        "Nur-Sultan"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Nur-Sultan",
+          "city_synonyms" : [
+            "Nur-Sultan",
+            "Нұр-Сұлтан",
+            "Нур-Султан"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Pavlodar Region",
+      "region_synonyms" : [
+        "Pavlodar Region",
+        "Pavlodar",
+        "Павлодар облысы",
+        "Павлодарская область"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Ekibastuz",
+          "city_synonyms" : [
+            "Ekibastuz",
+            "Екібастұз",
+            "Екибастуз"
           ]
         },
         {
-          "city_name" : "Taldykorgan",
+          "city_name" : "Pavlodar",
           "city_synonyms" : [
-            "Taldykorgan",
-            "Талдыкорган"
+            "Pavlodar",
+            "Павлодар"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Shymkent",
+      "region_synonyms" : [
+        "Shymkent"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Shymkent",
+          "city_synonyms" : [
+            "Shymkent",
+            "Шымкент"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Turkistan Region",
+      "region_synonyms" : [
+        "Turkistan Region",
+        "Turkistan",
+        "Түркістан облысы",
+        "Туркестанская область"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Turkistan",
+          "city_synonyms" : [
+            "Turkistan",
+            "Түркістан",
+            "Туркистан"
+          ]
+        },
+        {
+          "city_name" : "Kentau",
+          "city_synonyms" : [
+            "Kentau",
+            "Кентау"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "West Kazakhstan Region",
+      "region_synonyms" : [
+        "West Kazakhstan Region",
+        "West Kazakhstan",
+        "Батыс Қазақстан облысы",
+        "Западно-Казахстанская область"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Oral",
+          "city_synonyms" : [
+            "Oral",
+            "Орал"
           ]
         }
       ]
