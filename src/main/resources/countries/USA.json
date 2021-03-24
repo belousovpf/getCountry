@@ -1498,9 +1498,9 @@
       ]
     },
     {
-      "region_name" : "New Hampshire",
+      "region_name" : "New-Hampshire",
       "region_synonyms" : [
-        "New Hampshire"
+        "New-Hampshire"
       ],
       "cities" : [
         {
@@ -1571,15 +1571,15 @@
       ]
     },
     {
-      "region_name" : "New Mexico",
+      "region_name" : "New-Mexico",
       "region_synonyms" : [
-        "New Mexico"
+        "New-Mexico"
       ],
       "cities" : [
         {
-          "city_name" : "Santa Fe",
+          "city_name" : "Santa-Fe",
           "city_synonyms" : [
-            "Santa Fe"
+            "Santa-Fe"
           ]
         }
       ]
@@ -1719,9 +1719,9 @@
       ]
     },
     {
-      "region_name" : "North Dakota",
+      "region_name" : "North-Dakota",
       "region_synonyms" : [
-        "North Dakota"
+        "North-Dakota"
       ],
       "cities" : [
         {
@@ -1943,9 +1943,9 @@
       ]
     },
     {
-      "region_name" : "South Dakota",
+      "region_name" : "South-Dakota",
       "region_synonyms" : [
-        "South Dakota"
+        "South-Dakota"
       ],
       "cities" : [
         {
@@ -2406,9 +2406,9 @@
       ]
     },
     {
-      "region_name" : "West Virginia",
+      "region_name" : "West-Virginia",
       "region_synonyms" : [
-        "West Virginia"
+        "West-Virginia"
       ],
       "cities" : [
         {
