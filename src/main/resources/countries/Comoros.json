@@ -1,0 +1,22 @@
+{
+  "country_name" : "Comoros",
+  "country_synonyms" : [
+    "Comoros"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Moroni",
+      "region_synonyms" : [
+        "Moroni"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Moroni",
+          "city_synonyms" : [
+            "Moroni"
+          ]
+        }
+      ]
+    }
+  ]
+}

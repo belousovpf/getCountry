@@ -1,0 +1,23 @@
+{
+  "country_name" : "CoteDIvoire",
+  "country_synonyms" : [
+    "Côte d'Ivoire",
+    "Ivory Coast"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Yamoussoukro",
+      "region_synonyms" : [
+        "Yamoussoukro"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Yamoussoukro",
+          "city_synonyms" : [
+            "Yamoussoukro"
+          ]
+        }
+      ]
+    }
+  ]
+}

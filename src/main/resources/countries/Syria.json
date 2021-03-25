@@ -1,0 +1,22 @@
+{
+  "country_name" : "Syria",
+  "country_synonyms" : [
+    "Syria"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Daraa",
+      "region_synonyms" : [
+        "Daraa"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Daraa",
+          "city_synonyms" : [
+            "Daraa"
+          ]
+        }
+      ]
+    }
+  ]
+}

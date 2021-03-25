@@ -1,0 +1,22 @@
+{
+  "country_name" : "Lesotho",
+  "country_synonyms" : [
+    "Lesotho"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Maseru",
+      "region_synonyms" : [
+        "Maseru"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Maseru",
+          "city_synonyms" : [
+            "Maseru"
+          ]
+        }
+      ]
+    }
+  ]
+}

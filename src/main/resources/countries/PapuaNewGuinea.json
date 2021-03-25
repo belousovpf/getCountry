@@ -1,0 +1,22 @@
+{
+  "country_name" : "PapuaNewGuinea",
+  "country_synonyms" : [
+    "Papua New Guinea"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Moresby",
+      "region_synonyms" : [
+        "Moresby"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Moresby",
+          "city_synonyms" : [
+            "Moresby"
+          ]
+        }
+      ]
+    }
+  ]
+}

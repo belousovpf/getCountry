@@ -1,0 +1,22 @@
+{
+  "country_name" : "Congo",
+  "country_synonyms" : [
+    "Congo"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Kinshasa",
+      "region_synonyms" : [
+        "Kinshasa"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kinshasa",
+          "city_synonyms" : [
+            "Kinshasa"
+          ]
+        }
+      ]
+    }
+  ]
+}

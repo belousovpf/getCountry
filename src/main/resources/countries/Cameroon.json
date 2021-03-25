@@ -1,0 +1,23 @@
+{
+  "country_name" : "Cameroon",
+  "country_synonyms" : [
+    "Cameroon"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Yaounde",
+      "region_synonyms" : [
+        "Yaoundé"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Yaounde",
+          "city_synonyms" : [
+            "Yaoundé",
+            "Yaounde"
+          ]
+        }
+      ]
+    }
+  ]
+}

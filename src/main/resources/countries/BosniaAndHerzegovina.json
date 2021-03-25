@@ -1,0 +1,22 @@
+{
+  "country_name" : "BosniaAndHerzegovina",
+  "country_synonyms" : [
+    "Bosnia and Herzegovina"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Sarajevo",
+      "region_synonyms" : [
+        "Sarajevo"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Sarajevo",
+          "city_synonyms" : [
+            "Sarajevo"
+          ]
+        }
+      ]
+    }
+  ]
+}

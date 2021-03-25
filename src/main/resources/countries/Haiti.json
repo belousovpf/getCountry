@@ -1,0 +1,23 @@
+{
+  "country_name" : "Haiti",
+  "country_synonyms" : [
+    "Haiti"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Port-au-Prince",
+      "region_synonyms" : [
+        "Port-au-Prince",
+        "Port au Prince"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Port-au-Prince",
+          "city_synonyms" : [
+            "Port-au-Prince"
+          ]
+        }
+      ]
+    }
+  ]
+}

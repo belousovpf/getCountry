@@ -1,0 +1,22 @@
+{
+  "country_name" : "Guinea",
+  "country_synonyms" : [
+    "Guinea"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Conakry",
+      "region_synonyms" : [
+        "Conakry"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Conakry",
+          "city_synonyms" : [
+            "Conakry"
+          ]
+        }
+      ]
+    }
+  ]
+}

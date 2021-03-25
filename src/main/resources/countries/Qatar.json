@@ -1,0 +1,22 @@
+{
+  "country_name" : "Qatar",
+  "country_synonyms" : [
+    "Qatar"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Doha",
+      "region_synonyms" : [
+        "Doha"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Doha",
+          "city_synonyms" : [
+            "Doha"
+          ]
+        }
+      ]
+    }
+  ]
+}

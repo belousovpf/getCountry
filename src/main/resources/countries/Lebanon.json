@@ -1,0 +1,22 @@
+{
+  "country_name" : "Lebanon",
+  "country_synonyms" : [
+    "Lebanon"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Arqa",
+      "region_synonyms" : [
+        "Arqa"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Arqa",
+          "city_synonyms" : [
+            "Arqa"
+          ]
+        }
+      ]
+    }
+  ]
+}

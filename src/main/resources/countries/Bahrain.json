@@ -1,0 +1,22 @@
+{
+  "country_name" : "Bahrain",
+  "country_synonyms" : [
+    "Bahrain"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Manama",
+      "region_synonyms" : [
+        "Manama"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Manama",
+          "city_synonyms" : [
+            "Manama"
+          ]
+        }
+      ]
+    }
+  ]
+}

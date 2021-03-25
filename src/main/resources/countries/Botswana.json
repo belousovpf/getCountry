@@ -1,0 +1,22 @@
+{
+  "country_name" : "Botswana",
+  "country_synonyms" : [
+    "Botswana"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Gaborone",
+      "region_synonyms" : [
+        "Gaborone"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Gaborone",
+          "city_synonyms" : [
+            "Gaborone"
+          ]
+        }
+      ]
+    }
+  ]
+}

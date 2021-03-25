@@ -1,0 +1,22 @@
+{
+  "country_name" : "Nicaragua",
+  "country_synonyms" : [
+    "Nicaragua"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Managua",
+      "region_synonyms" : [
+        "Managua"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Managua",
+          "city_synonyms" : [
+            "Managua"
+          ]
+        }
+      ]
+    }
+  ]
+}

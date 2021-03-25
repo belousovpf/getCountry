@@ -1,0 +1,22 @@
+{
+  "country_name" : "Somalia",
+  "country_synonyms" : [
+    "Somalia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Abaareey",
+      "region_synonyms" : [
+        "Abaareey"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Abaareey",
+          "city_synonyms" : [
+            "Abaareey"
+          ]
+        }
+      ]
+    }
+  ]
+}

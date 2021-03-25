@@ -1,0 +1,24 @@
+{
+  "country_name" : "Dominican",
+  "country_synonyms" : [
+    "Dominican"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Santo-Domingo",
+      "region_synonyms" : [
+        "Santo Domingo de Guzmán",
+        "Santo Domingo"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Santo-Domingo",
+          "city_synonyms" : [
+            "Santo Domingo de Guzmán",
+            "Santo Domingo"
+          ]
+        }
+      ]
+    }
+  ]
+}

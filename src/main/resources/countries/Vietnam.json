@@ -1,0 +1,22 @@
+{
+  "country_name" : "Vietnam",
+  "country_synonyms" : [
+    "Vietnam"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Can-Tho",
+      "region_synonyms" : [
+        "Can Tho"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Can-Tho",
+          "city_synonyms" : [
+            "Can Tho"
+          ]
+        }
+      ]
+    }
+  ]
+}

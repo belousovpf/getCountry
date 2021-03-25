@@ -1,0 +1,23 @@
+{
+  "country_name" : "Andorra",
+  "country_synonyms" : [
+    "Andorra"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Andorra",
+      "region_synonyms" : [
+        "Andorra"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Andorra",
+          "city_synonyms" : [
+            "Andorra",
+            "Andorra la Vella"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "country_name" : "Madagascar",
+  "country_synonyms" : [
+    "Madagascar"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Antananarivo",
+      "region_synonyms" : [
+        "Antananarivo"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Antananarivo",
+          "city_synonyms" : [
+            "Antananarivo"
+          ]
+        }
+      ]
+    }
+  ]
+}

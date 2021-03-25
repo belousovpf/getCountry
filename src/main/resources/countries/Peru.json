@@ -1,0 +1,22 @@
+{
+  "country_name" : "Peru",
+  "country_synonyms" : [
+    "Peru"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Lima",
+      "region_synonyms" : [
+        "Lima"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Lima",
+          "city_synonyms" : [
+            "Lima"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "country_name" : "CentralAfricanRepublic",
+  "country_synonyms" : [
+    "Central African Republic"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Bangui",
+      "region_synonyms" : [
+        "Bangui"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bangui",
+          "city_synonyms" : [
+            "Bangui"
+          ]
+        }
+      ]
+    }
+  ]
+}

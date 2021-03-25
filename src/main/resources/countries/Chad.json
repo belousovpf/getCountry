@@ -1,0 +1,22 @@
+{
+  "country_name" : "Chad",
+  "country_synonyms" : [
+    "Chad"
+  ],
+  "regions" : [
+    {
+      "region_name" : "NDjamena",
+      "region_synonyms" : [
+        "N'Djamena"
+      ],
+      "cities" : [
+        {
+          "city_name" : "NDjamena",
+          "city_synonyms" : [
+            "N'Djamena"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "country_name" : "Malawi",
+  "country_synonyms" : [
+    "Malawi"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Lilongwe",
+      "region_synonyms" : [
+        "Lilongwe"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Lilongwe",
+          "city_synonyms" : [
+            "Lilongwe"
+          ]
+        }
+      ]
+    }
+  ]
+}

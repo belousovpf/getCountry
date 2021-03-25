@@ -1,0 +1,22 @@
+{
+  "country_name" : "BurkinaFaso",
+  "country_synonyms" : [
+    "Burkina Faso"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Ouagadougou",
+      "region_synonyms" : [
+        "Ouagadougou"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Ouagadougou",
+          "city_synonyms" : [
+            "Ouagadougou"
+          ]
+        }
+      ]
+    }
+  ]
+}

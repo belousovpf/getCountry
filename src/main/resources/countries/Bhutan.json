@@ -1,0 +1,22 @@
+{
+  "country_name" : "Bhutan",
+  "country_synonyms" : [
+    "Bhutan"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Thimphu",
+      "region_synonyms" : [
+        "Thimphu"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Thimphu",
+          "city_synonyms" : [
+            "Thimphu"
+          ]
+        }
+      ]
+    }
+  ]
+}

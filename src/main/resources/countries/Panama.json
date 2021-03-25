@@ -1,0 +1,22 @@
+{
+  "country_name" : "Panama",
+  "country_synonyms" : [
+    "Panama"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Panama",
+      "region_synonyms" : [
+        "Panamá"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Panama",
+          "city_synonyms" : [
+            "Panamá"
+          ]
+        }
+      ]
+    }
+  ]
+}

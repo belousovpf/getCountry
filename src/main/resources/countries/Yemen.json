@@ -1,0 +1,22 @@
+{
+  "country_name" : "Yemen",
+  "country_synonyms" : [
+    "Yemen"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Sanaa",
+      "region_synonyms" : [
+        "Sana'a"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Sanaa",
+          "city_synonyms" : [
+            "Sana'a"
+          ]
+        }
+      ]
+    }
+  ]
+}

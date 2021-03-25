@@ -1,0 +1,22 @@
+{
+  "country_name" : "Oman",
+  "country_synonyms" : [
+    "Oman"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Muscat",
+      "region_synonyms" : [
+        "Muscat"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Muscat",
+          "city_synonyms" : [
+            "Muscat"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "country_name" : "Kuwait",
+  "country_synonyms" : [
+    "Kuwait"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Kuwait",
+      "region_synonyms" : [
+        "Kuwait"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kuwait",
+          "city_synonyms" : [
+            "Kuwait"
+          ]
+        }
+      ]
+    }
+  ]
+}

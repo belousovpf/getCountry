@@ -1,0 +1,23 @@
+{
+  "country_name" : "CaboVerde",
+  "country_synonyms" : [
+    "Cabo Verde",
+    "Cape Verde"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Praia",
+      "region_synonyms" : [
+        "Praia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Praia",
+          "city_synonyms" : [
+            "Praia"
+          ]
+        }
+      ]
+    }
+  ]
+}

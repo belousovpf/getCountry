@@ -1,0 +1,22 @@
+{
+  "country_name" : "Senegal",
+  "country_synonyms" : [
+    "Senegal"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Dakar",
+      "region_synonyms" : [
+        "Dakar"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Dakar",
+          "city_synonyms" : [
+            "Dakar"
+          ]
+        }
+      ]
+    }
+  ]
+}

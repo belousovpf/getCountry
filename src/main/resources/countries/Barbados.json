@@ -1,0 +1,22 @@
+{
+  "country_name" : "Barbados",
+  "country_synonyms" : [
+    "Barbados"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Christ-Church",
+      "region_synonyms" : [
+        "Christ Church"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bannatyne",
+          "city_synonyms" : [
+            "Bannatyne"
+          ]
+        }
+      ]
+    }
+  ]
+}

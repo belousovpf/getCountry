@@ -1,0 +1,22 @@
+{
+  "country_name" : "Uruguay",
+  "country_synonyms" : [
+    "Uruguay"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Montevideo",
+      "region_synonyms" : [
+        "Montevideo"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Montevideo",
+          "city_synonyms" : [
+            "Montevideo"
+          ]
+        }
+      ]
+    }
+  ]
+}

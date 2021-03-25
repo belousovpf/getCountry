@@ -1,0 +1,22 @@
+{
+  "country_name" : "Ghana",
+  "country_synonyms" : [
+    "Ghana"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Accra",
+      "region_synonyms" : [
+        "Accra"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Accra",
+          "city_synonyms" : [
+            "Accra"
+          ]
+        }
+      ]
+    }
+  ]
+}

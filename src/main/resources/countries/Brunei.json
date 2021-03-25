@@ -1,0 +1,22 @@
+{
+  "country_name" : "Brunei",
+  "country_synonyms" : [
+    "Brunei"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Tutong",
+      "region_synonyms" : [
+        "Tutong"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Tutong",
+          "city_synonyms" : [
+            "Tutong"
+          ]
+        }
+      ]
+    }
+  ]
+}

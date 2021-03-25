@@ -1,0 +1,22 @@
+{
+  "country_name" : "Cambodia",
+  "country_synonyms" : [
+    "Cambodia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Phnom-Penh",
+      "region_synonyms" : [
+        "Phnom Penh"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Phnom-Penh",
+          "city_synonyms" : [
+            "Phnom Penh"
+          ]
+        }
+      ]
+    }
+  ]
+}

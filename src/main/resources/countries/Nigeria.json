@@ -1,0 +1,22 @@
+{
+  "country_name" : "Nigeria",
+  "country_synonyms" : [
+    "Nigeria"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Lagos",
+      "region_synonyms" : [
+        "Lagos"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Lagos",
+          "city_synonyms" : [
+            "Lagos"
+          ]
+        }
+      ]
+    }
+  ]
+}

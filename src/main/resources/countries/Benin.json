@@ -1,0 +1,22 @@
+{
+  "country_name" : "Benin",
+  "country_synonyms" : [
+    "Benin"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Cotonou",
+      "region_synonyms" : [
+        "Cotonou"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Cotonou",
+          "city_synonyms" : [
+            "Cotonou"
+          ]
+        }
+      ]
+    }
+  ]
+}

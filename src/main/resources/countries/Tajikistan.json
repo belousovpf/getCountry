@@ -1,0 +1,22 @@
+{
+  "country_name" : "Tajikistan",
+  "country_synonyms" : [
+    "Tajikistan"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Sughd",
+      "region_synonyms" : [
+        "Sughd"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Konibodom",
+          "city_synonyms" : [
+            "Konibodom"
+          ]
+        }
+      ]
+    }
+  ]
+}

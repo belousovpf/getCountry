@@ -1,0 +1,22 @@
+{
+  "country_name" : "Burundi",
+  "country_synonyms" : [
+    "Burundi"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Gitega",
+      "region_synonyms" : [
+        "Gitega"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Gitega",
+          "city_synonyms" : [
+            "Gitega"
+          ]
+        }
+      ]
+    }
+  ]
+}

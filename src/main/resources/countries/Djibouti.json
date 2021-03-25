@@ -1,0 +1,22 @@
+{
+  "country_name" : "Djibouti",
+  "country_synonyms" : [
+    "Djibouti"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Djibouti",
+      "region_synonyms" : [
+        "Djibouti"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Djibouti",
+          "city_synonyms" : [
+            "Djibouti"
+          ]
+        }
+      ]
+    }
+  ]
+}

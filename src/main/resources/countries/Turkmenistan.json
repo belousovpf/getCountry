@@ -1,0 +1,22 @@
+{
+  "country_name" : "Turkmenistan",
+  "country_synonyms" : [
+    "Turkmenistan"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Asgabat",
+      "region_synonyms" : [
+        "Aşgabat"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Asgabat",
+          "city_synonyms" : [
+            "Aşgabat"
+          ]
+        }
+      ]
+    }
+  ]
+}

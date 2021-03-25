@@ -1,0 +1,22 @@
+{
+  "country_name" : "Seychelles",
+  "country_synonyms" : [
+    "Seychelles"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Seychelles",
+      "region_synonyms" : [
+        "Seychelles"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Seychelles",
+          "city_synonyms" : [
+            "Seychelles"
+          ]
+        }
+      ]
+    }
+  ]
+}

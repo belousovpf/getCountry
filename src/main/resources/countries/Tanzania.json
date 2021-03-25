@@ -1,0 +1,22 @@
+{
+  "country_name" : "Tanzania",
+  "country_synonyms" : [
+    "Tanzania"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Arusha",
+      "region_synonyms" : [
+        "Arusha"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Arusha",
+          "city_synonyms" : [
+            "Arusha"
+          ]
+        }
+      ]
+    }
+  ]
+}

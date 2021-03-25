@@ -1,0 +1,22 @@
+{
+  "country_name" : "Ethiopia",
+  "country_synonyms" : [
+    "Ethiopia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Addis-Ababa",
+      "region_synonyms" : [
+        "Addis Ababa"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Addis-Ababa",
+          "city_synonyms" : [
+            "Addis Ababa"
+          ]
+        }
+      ]
+    }
+  ]
+}

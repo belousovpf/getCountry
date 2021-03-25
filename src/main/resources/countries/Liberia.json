@@ -1,0 +1,22 @@
+{
+  "country_name" : "Liberia",
+  "country_synonyms" : [
+    "Liberia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Monrovia",
+      "region_synonyms" : [
+        "Monrovia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Monrovia",
+          "city_synonyms" : [
+            "Monrovia"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "country_name" : "Maldives",
+  "country_synonyms" : [
+    "Maldives"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Male",
+      "region_synonyms" : [
+        "Malé"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Male",
+          "city_synonyms" : [
+            "Malé"
+          ]
+        }
+      ]
+    }
+  ]
+}

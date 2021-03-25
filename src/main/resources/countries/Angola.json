@@ -1,0 +1,22 @@
+{
+  "country_name" : "Angola",
+  "country_synonyms" : [
+    "Angola"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Luanda",
+      "region_synonyms" : [
+        "Luanda"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Luanda",
+          "city_synonyms" : [
+            "Luanda"
+          ]
+        }
+      ]
+    }
+  ]
+}

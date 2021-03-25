@@ -1,0 +1,22 @@
+{
+  "country_name" : "Jordan",
+  "country_synonyms" : [
+    "Jordan"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Amman",
+      "region_synonyms" : [
+        "Amman"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Amman",
+          "city_synonyms" : [
+            "Amman"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "country_name" : "AntiguaAndBarbuda",
+  "country_synonyms" : [
+    "Antigua and Barbuda"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Bolans",
+      "region_synonyms" : [
+        "Bolans"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bolans",
+          "city_synonyms" : [
+            "Bolans"
+          ]
+        }
+      ]
+    }
+  ]
+}

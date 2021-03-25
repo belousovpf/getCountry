@@ -1,0 +1,22 @@
+{
+  "country_name" : "Zimbabwe",
+  "country_synonyms" : [
+    "Zimbabwe"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Harare",
+      "region_synonyms" : [
+        "Harare"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Harare",
+          "city_synonyms" : [
+            "Harare"
+          ]
+        }
+      ]
+    }
+  ]
+}

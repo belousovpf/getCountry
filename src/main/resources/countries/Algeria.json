@@ -1,0 +1,22 @@
+{
+  "country_name" : "Algeria",
+  "country_synonyms" : [
+    "Algeria"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Algiers",
+      "region_synonyms" : [
+        "Algiers"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Algiers",
+          "city_synonyms" : [
+            "Algiers"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "country_name" : "Sudan",
+  "country_synonyms" : [
+    "Sudan"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Khartoum",
+      "region_synonyms" : [
+        "Khartoum"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Khartoum",
+          "city_synonyms" : [
+            "Khartoum"
+          ]
+        }
+      ]
+    }
+  ]
+}

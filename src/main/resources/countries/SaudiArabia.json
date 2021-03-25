@@ -1,0 +1,22 @@
+{
+  "country_name" : "SaudiArabia",
+  "country_synonyms" : [
+    "Saudi Arabia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Abha",
+      "region_synonyms" : [
+        "Abha"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Abha",
+          "city_synonyms" : [
+            "Abha"
+          ]
+        }
+      ]
+    }
+  ]
+}

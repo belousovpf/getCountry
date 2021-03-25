@@ -1,0 +1,22 @@
+{
+  "country_name" : "Belize",
+  "country_synonyms" : [
+    "Belize"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Belize",
+      "region_synonyms" : [
+        "Belize"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Belize",
+          "city_synonyms" : [
+            "Belize"
+          ]
+        }
+      ]
+    }
+  ]
+}

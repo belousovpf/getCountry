@@ -1,0 +1,24 @@
+{
+  "country_name" : "Bahamas",
+  "country_synonyms" : [
+    "Bahamas"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Grand-Bahama",
+      "region_synonyms" : [
+        "Bahamas",
+        "Grand Bahama"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bahamas-City",
+          "city_synonyms" : [
+            "Bahamas",
+            "Bahamas City"
+          ]
+        }
+      ]
+    }
+  ]
+}

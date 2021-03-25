@@ -1,0 +1,22 @@
+{
+  "country_name" : "Zambia",
+  "country_synonyms" : [
+    "Zambia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Lusaka",
+      "region_synonyms" : [
+        "Lusaka"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Lusaka",
+          "city_synonyms" : [
+            "Lusaka"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "country_name" : "Uzbekistan",
+  "country_synonyms" : [
+    "Uzbekistan"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Tashkent",
+      "region_synonyms" : [
+        "Tashkent"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Tashkent",
+          "city_synonyms" : [
+            "Tashkent"
+          ]
+        }
+      ]
+    }
+  ]
+}

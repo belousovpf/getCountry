@@ -1,0 +1,22 @@
+{
+  "country_name" : "Mozambique",
+  "country_synonyms" : [
+    "Mozambique"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Maputo",
+      "region_synonyms" : [
+        "Maputo"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Maputo",
+          "city_synonyms" : [
+            "Maputo"
+          ]
+        }
+      ]
+    }
+  ]
+}

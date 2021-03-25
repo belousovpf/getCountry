@@ -1,0 +1,22 @@
+{
+  "country_name" : "Colombia",
+  "country_synonyms" : [
+    "Colombia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Bogota",
+      "region_synonyms" : [
+        "Bogotá"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bogota",
+          "city_synonyms" : [
+            "Bogotá"
+          ]
+        }
+      ]
+    }
+  ]
+}

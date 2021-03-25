@@ -1,0 +1,22 @@
+{
+  "country_name" : "SouthAfrica",
+  "country_synonyms" : [
+    "South Africa"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Randfontein",
+      "region_synonyms" : [
+        "Randfontein"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Randfontein",
+          "city_synonyms" : [
+            "Randfontein"
+          ]
+        }
+      ]
+    }
+  ]
+}

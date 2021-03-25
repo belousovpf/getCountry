@@ -1,0 +1,22 @@
+{
+  "country_name" : "Jamaica",
+  "country_synonyms" : [
+    "Jamaica"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Kingston",
+      "region_synonyms" : [
+        "Kingston"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kingston",
+          "city_synonyms" : [
+            "Kingston"
+          ]
+        }
+      ]
+    }
+  ]
+}

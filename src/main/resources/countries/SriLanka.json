@@ -1,0 +1,22 @@
+{
+  "country_name" : "SriLanka",
+  "country_synonyms" : [
+    "Sri Lanka"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Colombo",
+      "region_synonyms" : [
+        "Colombo"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Colombo",
+          "city_synonyms" : [
+            "Colombo"
+          ]
+        }
+      ]
+    }
+  ]
+}

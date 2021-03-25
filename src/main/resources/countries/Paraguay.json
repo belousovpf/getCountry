@@ -1,0 +1,22 @@
+{
+  "country_name" : "Paraguay",
+  "country_synonyms" : [
+    "Paraguay"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Asuncion",
+      "region_synonyms" : [
+        "Asunción"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Asuncion",
+          "city_synonyms" : [
+            "Asunción"
+          ]
+        }
+      ]
+    }
+  ]
+}

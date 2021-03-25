@@ -1,0 +1,22 @@
+{
+  "country_name" : "Monaco",
+  "country_synonyms" : [
+    "Monaco"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Monaco",
+      "region_synonyms" : [
+        "Monaco"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Monaco",
+          "city_synonyms" : [
+            "Monaco"
+          ]
+        }
+      ]
+    }
+  ]
+}

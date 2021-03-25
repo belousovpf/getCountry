@@ -1,0 +1,22 @@
+{
+  "country_name" : "Laos",
+  "country_synonyms" : [
+    "Laos"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Vientiane",
+      "region_synonyms" : [
+        "Vientiane"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Vientiane",
+          "city_synonyms" : [
+            "Vientiane"
+          ]
+        }
+      ]
+    }
+  ]
+}
