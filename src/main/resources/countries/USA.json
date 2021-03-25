@@ -114,6 +114,20 @@
       ]
     },
     {
+      "region_name" : "Alaska",
+      "region_synonyms" : [
+        "Alaska"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Juneau",
+          "city_synonyms" : [
+            "Juneau"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Arkansas",
       "region_synonyms" : [
         "Arkansas"
@@ -754,6 +768,20 @@
       ]
     },
     {
+      "region_name" : "Delaware",
+      "region_synonyms" : [
+        "Delaware"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Dover",
+          "city_synonyms" : [
+            "Dover"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Florida",
       "region_synonyms" : [
         "Florida",
@@ -932,6 +960,20 @@
           "city_name" : "Savannah",
           "city_synonyms" : [
             "Savannah"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Hawaii",
+      "region_synonyms" : [
+        "Hawaii"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Honolulu",
+          "city_synonyms" : [
+            "Honolulu"
           ]
         }
       ]
@@ -1125,6 +1167,20 @@
       ]
     },
     {
+      "region_name" : "Maine",
+      "region_synonyms" : [
+        "Maine"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Augusta",
+          "city_synonyms" : [
+            "Augusta"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Maryland",
       "region_synonyms" : [
         "Maryland"
@@ -1308,6 +1364,20 @@
       ]
     },
     {
+      "region_name" : "Mississippi",
+      "region_synonyms" : [
+        "Mississippi"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Jackson",
+          "city_synonyms" : [
+            "Jackson"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Missouri",
       "region_synonyms" : [
         "Missouri"
@@ -1428,6 +1498,20 @@
       ]
     },
     {
+      "region_name" : "New-Hampshire",
+      "region_synonyms" : [
+        "New Hampshire"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Concord",
+          "city_synonyms" : [
+            "Concord"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "New-Jersey",
       "region_synonyms" : [
         "New Jersey",
@@ -1482,6 +1566,20 @@
           "city_name" : "Woodbridge",
           "city_synonyms" : [
             "Woodbridge"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "New-Mexico",
+      "region_synonyms" : [
+        "New Mexico"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Santa-Fe",
+          "city_synonyms" : [
+            "Santa Fe"
           ]
         }
       ]
@@ -1616,6 +1714,20 @@
           "city_name" : "Winston-Salem",
           "city_synonyms" : [
             "Winston-Salem"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "North-Dakota",
+      "region_synonyms" : [
+        "North Dakota"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bismarck",
+          "city_synonyms" : [
+            "Bismarck"
           ]
         }
       ]
@@ -1826,6 +1938,20 @@
           "city_name" : "Charleston",
           "city_synonyms" : [
             "Charleston"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "South-Dakota",
+      "region_synonyms" : [
+        "South Dakota"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Pierre",
+          "city_synonyms" : [
+            "Pierre"
           ]
         }
       ]
@@ -2280,6 +2406,20 @@
       ]
     },
     {
+      "region_name" : "West-Virginia",
+      "region_synonyms" : [
+        "West Virginia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Charleston",
+          "city_synonyms" : [
+            "Charleston"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Wisconsin",
       "region_synonyms" : [
         "Wisconsin",
@@ -2309,6 +2449,20 @@
           "city_name" : "Verona",
           "city_synonyms" : [
             "Verona"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Wyoming",
+      "region_synonyms" : [
+        "Wyoming"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Cheyenne",
+          "city_synonyms" : [
+            "Cheyenne"
           ]
         }
       ]
