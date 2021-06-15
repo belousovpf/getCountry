@@ -149,6 +149,18 @@
       ]
     },
     {
+      "region_name" : "D.C.",
+      "region_synonyms" : [
+        "District of Columbia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Washington",
+          "city_synonyms" : [
+            "Washington"
+          ]
+        },
+    {
       "region_name" : "California",
       "region_synonyms" : [
         "California",
